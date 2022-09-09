@@ -134,8 +134,8 @@ nordic-dfu = { module = "no.nordicsemi.android:dfu", version.ref = "nordic-dfu" 
 # Testing
 junit = { module = "junit:junit", version.ref = "junit" }
 junit-bom = { module = "org.junit:junit-bom", version.ref = "junit" }
-junit-ext = { module = "androidx.test.ext:junit", version.ref = "test-ext-junit" }
-espresso-core = { module = "androidx.test.espresso:espresso-core", version.ref = "test-espresso-core" }
+junit-ext = { module = "androidx.test.ext:junit", version.ref = "junit-ext" }
+espresso-core = { module = "androidx.test.espresso:espresso-core", version.ref = "espresso-core" }
 
 # Http Components
 http-client = { module = "org.apache.httpcomponents:httpclient", version.ref = "httpcomponents" }
