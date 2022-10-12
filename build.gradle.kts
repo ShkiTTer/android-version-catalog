@@ -4,7 +4,7 @@ plugins {
 }
 
 allprojects {
-    group = "com.github.redmadrobot-tomsk.gradle-version-catalogs"
+    group = "io.github.shkitter.android-version-catalogs"
     version = "2022.09.08"
 }
 
